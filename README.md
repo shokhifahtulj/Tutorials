@@ -7,7 +7,7 @@ Tersedia dua cara: **otomatis (pakai script batch)** atau **manual (pakai CMD/Wi
 
 ## 🔹 Cara 1 – Otomatis (Paling Mudah)
 Gunakan file `remove_oracleXE.bat`.
-📥 [Download remove_oracleXE.bat](https://raw.githubusercontent.com/shokhifahtulj/Tutorials/blob/main/remove_oracleXE.bat)
+📥 [Download remove_oracleXE.bat](https://raw.githubusercontent.com/shokhifahtulj/Tutorials/main/remove_oracleXE.bat)
 
 1. Klik kanan pada `remove_oracleXE.bat` → pilih **Run as Administrator**  
 2. Script akan otomatis:  
